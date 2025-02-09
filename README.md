@@ -1,4 +1,4 @@
-<!-- for first time user use this command.
+For first time user use this command.
 
 1) go inside a folder where you want to donwload the code
 2) open terminal in that file path by clicking left shift key with right click and select open terminal
@@ -6,4 +6,4 @@
 
 Now u are able to download code
 
-If u want to upload the code in this repo contact me. -->
+If u want to upload the code in this repo contact me.
